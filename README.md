@@ -1,6 +1,6 @@
 - Hi, I’m Mustafa Ekinci
 - I am a student of the Department of Information Systems and Technologies
-- Interested in programming and trying to learn
+- I am interested in programming and I am trying to learn
 - You can reach me here : https://www.linkedin.com/in/graceartt/
 
 <!---
